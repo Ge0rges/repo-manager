@@ -17,7 +17,7 @@
 				{
 					if ($file != "." && $file != ".." && strtolower(substr($file, strrpos($file, '.') + 1)) == 'deb')
 					{
-						$thelist .= '<li><a href="'.$file.'">'.$file.'</a></li>';
+						$thelist .= '<li>'.$file.'</li>';
 					}
 				}
 				closedir($handle);
