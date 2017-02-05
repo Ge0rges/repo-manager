@@ -20,3 +20,9 @@ Prerequisites
 In order for this to run you need to have installed two other packages besides PHP and a webserver. You need bzip2 and dpkg-dev. These packages can be installed by running:
 
 sudo apt-get install bzip2 dpkg-dev
+
+License
+==========
+
+Forked from https://github.com/FrederickGeek8/repo-manager
+No added license.
