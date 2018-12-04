@@ -25,4 +25,4 @@ License
 ==========
 
 Forked from https://github.com/FrederickGeek8/repo-manager
-No added license.
+View License file.
